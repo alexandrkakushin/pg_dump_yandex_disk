@@ -1,0 +1,14 @@
+{
+    "yandex": {
+        "login": "alexandrkakushin",
+        "password": "6A5l4e3x2a",
+        "dir": null
+    },
+    "pg": {
+        "host": null,
+        "port": null,
+        "db": null,
+        "login": null,
+        "password": null
+    }
+}
