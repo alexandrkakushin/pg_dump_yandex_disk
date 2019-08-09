@@ -1,8 +1,8 @@
 {
     "yandex": {
-        "login": null,
-        "password": null,
-        "dir": null
+        "login": "pg-dump-yadisk",
+        "password": "q1w2e3r4T%Y^U&",
+        "dir": "/dumps"
     },
     "pg": {
         "host": null,
