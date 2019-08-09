@@ -5,10 +5,10 @@
         "dir": "/dumps"
     },
     "pg": {
-        "host": null,
+        "host": "localhost",
         "port": null,
-        "db": null,
-        "login": null,
-        "password": null
+        "db": "teamcity",
+        "login": "postgres",
+        "password": "postgres"
     }
 }

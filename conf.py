@@ -18,7 +18,7 @@ class Conf():
 
     def __check(self, data):
         result = True
-        print('Checking settings:')
+        print('\nChecking settings:')
         try:
             print(' Yandex.Disk : ', end='')
             self.__check_yandex_disk(data)
